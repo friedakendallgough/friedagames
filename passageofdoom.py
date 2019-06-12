@@ -46,8 +46,6 @@ while True:
 
         print("You walk away from the village quickening your pace when you realise how dark it is. you eventually find a cave and settle down for the night. you wake up in the middle of the night with a start thinking you heard something, you listen for a while but don't hear anything. thinking you were imagining it you begin to close your eyes, but then you hear it again and this time you know your not imagining it. you slowly sit up starting to wish you'd stayed with the tribe when suddenly something leaps out of the darkness at you. you try to fight it off but it grabs your leg and starts dragging you itno the trees leaving a trail of blood in it's wake the echoes of your screams fading into the night. GAME OVER.")
 
-        continue
-
 
 
 
